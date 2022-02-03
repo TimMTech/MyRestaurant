@@ -1,0 +1,17 @@
+.menu-container {
+    overflow: scroll;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    text-align: center;
+}
+
+
+
+img {
+    width: 10rem;
+
+}
